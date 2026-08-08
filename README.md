@@ -37,8 +37,7 @@ Tenho foco em desenvolvimento web utilizando React, TypeScript e tecnologias mod
 
 ## 🌐 Onde me encontrar
 
-🔗 [Portfólio](SEU_LINK)
+🔗 [Portfólio](https://portfolio-react-99wi.vercel.app/)
 
-🔗 [LinkedIn](SEU_LINK)
+🔗 [LinkedIn](https://www.linkedin.com/in/luansilvadevelop/)
 
-🔗 [GitHub](SEU_LINK)
