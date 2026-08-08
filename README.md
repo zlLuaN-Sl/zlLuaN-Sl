@@ -2,16 +2,17 @@
 
 ### Desenvolvedor Front-end Júnior
 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou construindo minha carreira como desenvolvedor Front-end.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira como desenvolvedor Front-end.
 
-Tenho foco em desenvolvimento web utilizando React, TypeScript e tecnologias modernas do ecossistema JavaScript.
+Tenho foco no desenvolvimento de aplicações web modernas, responsivas e bem estruturadas, utilizando principalmente **React, TypeScript e tecnologias do ecossistema JavaScript**.
 
-🚀 Atualmente estou buscando minha primeira oportunidade profissional como Desenvolvedor Front-end Júnior.
+Atualmente estou em busca da minha primeira oportunidade profissional como **Desenvolvedor Front-end Júnior**.
 
 ---
 
 ## 🛠️ Tecnologias
 
+### Front-end
 - HTML5
 - CSS3
 - JavaScript
@@ -19,26 +20,76 @@ Tenho foco em desenvolvimento web utilizando React, TypeScript e tecnologias mod
 - React
 - Next.js
 - Tailwind CSS
+
+### Ferramentas
 - Git
 - GitHub
+- VS Code
+- NPM
+
+### Conhecimentos
+- Componentização
+- Hooks
+- Context API
+- Gerenciamento de estado
+- Consumo de APIs REST
+- JSON
+- Async/Await
+- Responsividade
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
 
-🔹 Portfólio — React + TypeScript + Next.js
+### 💻 Portfólio
 
-🔹 To-Do List — React + TypeScript
+Meu portfólio profissional desenvolvido com React, TypeScript, Next.js e Tailwind CSS.
 
-🔹 Pizzaria Prime — HTML + CSS + JavaScript
+🔗 [Acessar Portfólio](https://portfolio-react-fh6y.vercel.app/)
 
-🔹 Tip Calculator — HTML + CSS + JavaScript
+🔗 [Repositório](https://github.com/zlLuaN-Sl/portfolio-react)
 
 ---
 
-## 🌐 Onde me encontrar
+### ✅ To-Do List
 
-🔗 [Portfólio](https://portfolio-react-99wi.vercel.app/)
+Aplicação de gerenciamento de tarefas desenvolvida utilizando React e TypeScript.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/luansilvadevelop/)
+🔗 [Repositório](https://github.com/zlLuaN-Sl/todo-list-react-ts)
 
+---
+
+### 🍕 Pizzaria Prime
+
+Site responsivo desenvolvido utilizando HTML, CSS e JavaScript.
+
+🔗 [Repositório](https://project-pizza-nu.vercel.app/)
+
+---
+
+### 💰 Controle Financeiro
+
+Projeto desenvolvido para praticar TypeScript, organização de código e manipulação de dados.
+
+🔗 [Repositório](https://controle-financeiro-pessoal-lime.vercel.app/)
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**
+
+Graduação EAD — Concluída em dezembro de 2025.
+
+---
+
+## 📫 Contato
+
+🌐 [Portfólio](https://portfolio-react-fh6y.vercel.app/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/luansilvadevelop/)
+
+
+---
+
+⭐ Estou aberto a oportunidades como **Desenvolvedor Front-end Júnior**.
