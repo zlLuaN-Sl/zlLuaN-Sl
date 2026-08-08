@@ -17,6 +17,7 @@ Tenho foco em desenvolvimento web utilizando React, TypeScript e tecnologias mod
 - JavaScript
 - TypeScript
 - React
+- Next.js
 - Tailwind CSS
 - Git
 - GitHub
